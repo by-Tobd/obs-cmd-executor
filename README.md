@@ -1,5 +1,6 @@
 # OBS cmd executor
-Enables execution of shell commands from OBBS and autostart them. Autostart happens on OBS startup and script reload.
+Enables execution of shell commands from obs and autostart them.  
+Autostart happens on script load (startup or reload) or on stream start.
 
 ## Setup
 ### Prepare OBS to use python
