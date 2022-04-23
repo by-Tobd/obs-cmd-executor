@@ -17,6 +17,9 @@ e.g.: run Python script:
 
 e.g.: start new cmd and execute command there:
     \"cmd /k <cmd to execute>\"
+    
+e.g.: start new powershell and execute command there:
+    \"powershell -noexit -Command <cmd to execute>"\"
 
 by Tobd"""
 
